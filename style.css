@@ -1,1 +1,14 @@
+*{
 
+}
+
+body{
+    background-color: #BAFEEF;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: rgba(255, 241, 220, 0.801);
+    height: 4em;
+}
