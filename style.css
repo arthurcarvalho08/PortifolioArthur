@@ -3,12 +3,12 @@
 }
 
 body{
-    background-color: #BAFEEF;
+    background-color: #000000;
     font-size: 16px;
-    color: rgb(255, 255, 255);
+    color: #FFFF;
 }
 
 header{
-    background-color: rgba(255, 241, 220, 0.801);
+    background-color: rgba(44, 44, 44, 0.801);
     height: 4em;
 }
