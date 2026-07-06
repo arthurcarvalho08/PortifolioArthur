@@ -12,3 +12,16 @@ header{
     background-color: #002369;
     height: 4em;
 }
+
+header h1{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border-radius: 18px;
+}
+
+main{
+    background-color: red;
+}
