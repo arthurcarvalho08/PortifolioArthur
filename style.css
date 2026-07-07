@@ -30,4 +30,12 @@ img{
 
 main{
     background-color: #001849;
+    color: azure;
+    flex: 1;
+}
+
+section{
+    margin: 10%;
+    display: flex;
+    
 }
