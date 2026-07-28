@@ -26,7 +26,7 @@ strong{
 }
 
 header h1{
-    /* padding: 1em; */
+     padding-left: 1em; 
     text-align: center;
     color: #feffff;
     background-color: #002369;
